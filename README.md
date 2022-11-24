@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Rakshith2597
+- 👀 I’m interested in improving the healthcare sector with Artifical Intellingence (AI).
+- 🌱 I’m currently pursuing my Master in Science (Research) at Indian Institute of Technology Kharagpur.
+- 📫 You can reach me at rakshith.sathish@kgpian.iitkgp.ac.in
