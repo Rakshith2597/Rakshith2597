@@ -1,4 +1,3 @@
 - 👋 Hi, I’m Rakshith
-- 👀 I’m interested in improving the healthcare sector with Artifical Intellingence (AI).
-- 🌱 I’m currently pursuing my Master in Science (Research) at Indian Institute of Technology Kharagpur.
-- 📫 You can reach me at rakshith.sathish@kgpian.iitkgp.ac.in
+- 🌱 I’m currently part of the data science team at <a href="https://satsure.co/" > SatSure </a>.
+- 📫 You can reach me at rakshith[dot]sathish[at]gmail[dot]com
